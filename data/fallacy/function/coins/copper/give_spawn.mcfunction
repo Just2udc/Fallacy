@@ -1,0 +1,1 @@
+give @p bee_spawn_egg[entity_data={id:"minecraft:armor_stand",NoGravity:1b,Tags:["copper_coin"]},item_name="Copper Coin Stack",item_model="fallacy:copper_coin_stack"] 1

@@ -1,0 +1,1 @@
+$give @s minecraft:rabbit_foot[minecraft:item_model="fallacy:iron_coin",minecraft:item_name={"color":"#d8d8d8","text":"Iron Coin"},minecraft:lore=[{"text":"The main currency in <incertRegionName>","color":"gray","italic":false},{"text":""},{"text":"COMMON","color":"white","italic":false}],minecraft:rarity=common] $(value)
