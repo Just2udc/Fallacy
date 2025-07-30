@@ -1,1 +1,1 @@
-give @s bee_spawn_egg[entity_data={id:"minecraft:armor_stand",NoGravity:1b,Tags:["gold_coin"]},item_name="Gold Coin Stack",item_model="fallacy:gold_coin_stack"]
+give @p bee_spawn_egg[entity_data={id:"minecraft:armor_stand",NoGravity:1b,Tags:["gold_coin"]},item_name={"color":"#ffc746","text":"Gold Coin Stack"},item_model="fallacy:gold_coin_stack",lore=[{"color":"gray","text":"A small pile of coins"},{"text":""},{"color":"aqua","italic":false,"text":"RARE"}]] 1
